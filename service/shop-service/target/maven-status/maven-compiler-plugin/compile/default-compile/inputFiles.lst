@@ -1,0 +1,14 @@
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/impl/ErpShopPlatformServiceImpl.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/impl/OmsMerchantServiceImpl.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/impl/OmsMerchantShopServiceImpl.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/impl/OmsShopPullLasttimeServiceImpl.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/impl/OmsShopPullLogsServiceImpl.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/impl/OmsTenantShopGoodsServiceImpl.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/impl/OmsTenantShopGoodsSkuServiceImpl.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/impl/VendorServiceImpl.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/mapper/ErpShopPlatformMapper.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/mapper/OmsMerchantMapper.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/mapper/OmsMerchantShopMapper.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/mapper/OmsShopPullLasttimeMapper.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/mapper/OmsShopPullLogsMapper.java
+/home/yuan/project/idea/qihangerp-scm-master/service/shop-service/src/main/java/cn/qihangerp/service/shop/mapper/VendorMapper.java

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.qihangerp.service.order.mapper.OmsOrderItemMapper">
+
+    <resultMap id="BaseResultMap" type="cn.qihangerp.model.order.domain.OmsOrderItem">
+            <id property="id" column="id" jdbcType="BIGINT"/>
+            <result property="orderId" column="order_id" jdbcType="BIGINT"/>
+            <result property="shopId" column="shop_id" jdbcType="BIGINT"/>
+            <result property="platformSkuId" column="platform_sku_id" jdbcType="BIGINT"/>
+            <result property="erpGoodsId" column="erp_goods_id" jdbcType="BIGINT"/>
+            <result property="erpGoodsSpecId" column="erp_goods_spec_id" jdbcType="BIGINT"/>
+            <result property="goodsTitle" column="goods_title" jdbcType="VARCHAR"/>
+            <result property="goodsImg" column="goods_img" jdbcType="VARCHAR"/>
+            <result property="goodsNum" column="goods_num" jdbcType="VARCHAR"/>
+            <result property="goodsSpec" column="goods_spec" jdbcType="VARCHAR"/>
+            <result property="skuCode" column="sku_code" jdbcType="VARCHAR"/>
+            <result property="goodsPrice" column="goods_price" jdbcType="DOUBLE"/>
+            <result property="itemAmount" column="item_amount" jdbcType="DOUBLE"/>
+            <result property="quantity" column="quantity" jdbcType="INTEGER"/>
+            <result property="remark" column="remark" jdbcType="VARCHAR"/>
+            <result property="isGift" column="is_gift" jdbcType="TINYINT"/>
+            <result property="refundCount" column="refund_count" jdbcType="INTEGER"/>
+            <result property="refundStatus" column="refund_status" jdbcType="INTEGER"/>
+            <result property="orderStatus" column="order_status" jdbcType="INTEGER"/>
+            <result property="tenantId" column="tenant_id" jdbcType="BIGINT"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,order_id,shop_id,
+        platform_sku_id,erp_goods_id,erp_goods_spec_id,
+        goods_title,goods_img,goods_num,
+        goods_spec,sku_code,goods_price,
+        item_amount,quantity,remark,
+        is_gift,refund_count,refund_status,
+        order_status,tenant_id
+    </sql>
+</mapper>

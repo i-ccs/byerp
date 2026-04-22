@@ -1,0 +1,12 @@
+cn/qihangerp/service/shop/impl/OmsMerchantShopServiceImpl.class
+cn/qihangerp/service/shop/impl/OmsShopPullLogsServiceImpl.class
+cn/qihangerp/service/shop/mapper/VendorMapper.class
+cn/qihangerp/service/shop/impl/ErpShopPlatformServiceImpl.class
+cn/qihangerp/service/shop/mapper/OmsShopPullLogsMapper.class
+cn/qihangerp/service/shop/mapper/ErpShopPlatformMapper.class
+cn/qihangerp/service/shop/impl/VendorServiceImpl.class
+cn/qihangerp/service/shop/impl/OmsMerchantServiceImpl.class
+cn/qihangerp/service/shop/mapper/OmsShopPullLasttimeMapper.class
+cn/qihangerp/service/shop/mapper/OmsMerchantMapper.class
+cn/qihangerp/service/shop/mapper/OmsMerchantShopMapper.class
+cn/qihangerp/service/shop/impl/OmsShopPullLasttimeServiceImpl.class

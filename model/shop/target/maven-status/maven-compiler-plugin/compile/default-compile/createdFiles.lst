@@ -1,0 +1,16 @@
+cn/qihangerp/model/shop/domain/OmsMerchant.class
+cn/qihangerp/model/shop/vo/ShopGoodsSpecListVo.class
+cn/qihangerp/model/shop/bo/ShopGoodsQuery.class
+cn/qihangerp/model/shop/domain/OmsShopPullLogs.class
+cn/qihangerp/model/shop/service/OmsMerchantService.class
+cn/qihangerp/model/shop/service/OmsMerchantShopService.class
+cn/qihangerp/model/shop/bo/TenantBo.class
+cn/qihangerp/model/shop/service/ErpShopPlatformService.class
+cn/qihangerp/model/shop/domain/ErpShopPlatform.class
+cn/qihangerp/model/shop/service/VendorService.class
+cn/qihangerp/model/shop/bo/ShopQuery.class
+cn/qihangerp/model/shop/service/OmsShopPullLasttimeService.class
+cn/qihangerp/model/shop/domain/Vendor.class
+cn/qihangerp/model/shop/domain/OmsMerchantShop.class
+cn/qihangerp/model/shop/domain/OmsShopPullLasttime.class
+cn/qihangerp/model/shop/service/OmsShopPullLogsService.class
